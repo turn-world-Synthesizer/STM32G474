@@ -1,0 +1,28 @@
+.vscode
+
+
+# STM32 build directories
+/[Bb]uild/
+/Debug/
+/Release/
+
+# Compiled output
+*.o
+*.obj
+*.d
+*.elf
+*.axf
+*.hex
+*.bin
+*.map
+*.list
+*.su
+
+# Editor history and temporary files
+.history/
+*.tmp
+*.bak
+
+# Python cache
+__pycache__/
+*.py[cod]
